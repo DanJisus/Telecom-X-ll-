@@ -1,4 +1,6 @@
 Evaluación de Fuga de Clientes en una Empresa
+
+
 📌 Introducción
 
 Este proyecto tiene como objetivo evaluar la problemática de alta salida de clientes (churn) en una empresa ficticia. Se trató de un caso práctico para poner en uso herramientas de análisis de datos y aprendizaje automático (Machine Learning) con el lenguaje de programación Python.
